@@ -5,6 +5,6 @@
 
 void main(void) {
 	int sum;
-	sum = 20 + 50 + 70;
-	printf("20と50と70を足した値は%dです。\n",sum);
+	sum = (20 + 50) + 70;
+	printf("20と50の合計に70を足した値は%dです。\n",sum);
 }
