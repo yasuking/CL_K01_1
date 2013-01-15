@@ -6,5 +6,5 @@
 void main(void) {
 	int sum;
 	sum = 20 + 37;
-	printf("15に37を足した値は%dです。\n",sum);
+	printf("20に37を足した値は%dです。\n",sum);
 }
